@@ -4,7 +4,7 @@
 
 
 <script>
-    var audio = new Audio('https://github.com/user/project/blob/main/audio/sound.mp3?raw=true');
+    var audio = new Audio('https://github.com/AestheticLuna/AestheticLuna/raw/refs/heads/main/washing.mp3');
     audio.play();
 </script>
 
