@@ -2,11 +2,7 @@
 
 
 
-
-<script>
-    var audio = new Audio('https://github.com/AestheticLuna/AestheticLuna/raw/refs/heads/main/washing.mp3');
-    audio.play();
-</script>
+[![](luna.jpg)]()
 
 
 
