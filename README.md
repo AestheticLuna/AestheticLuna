@@ -1,1 +1,1 @@
-![luna](https://github.com/user-attachments/assets/efca2286-6a7a-4d22-abd0-d8cbe6ff539f)
+![luna](https://github.com/AestheticLuna/AestheticLuna/issues/1#issue-2961490418)
