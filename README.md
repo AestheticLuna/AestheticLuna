@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CF9FFF&lines=Howdy💫+Call+me+Luna🐈‍⬛)](https://git.io/typing-svg)
 
 <video src="https://github.com/user-attachments/assets/efca2286-6a7a-4d22-abd0-d8cbe6ff539f" width="352" height="720"></video>
 
